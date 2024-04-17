@@ -1,1 +1,3 @@
 # Superstore_sales-EDA
+The Superstore dataset contains sales data from an online retail store. The dataset includes information such as sales, order dates, product categories, and customer segments. Conducting Exploratory Data Analysis (EDA) on this dataset can provide valuable insights for business decision-making and optimization.
+The objective of this project is to perform Exploratory Data Analysis (EDA) on the Superstore dataset to uncover patterns, trends, and relationships within the data. By exploring various aspects of the dataset, we aim to gain insights that can help optimize sales strategies, improve operational efficiency, and enhance customer satisfaction.
